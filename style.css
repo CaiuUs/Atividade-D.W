@@ -91,7 +91,7 @@ footer {
   margin-bottom: 20px;
 }
 .bg-blur {
-  background-image: url('/assets/bg-image.png');
+  background-image: url('assets/bg-image.png');
   background-size: cover;
   background-position: center;
   position: fixed;
